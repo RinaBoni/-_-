@@ -1,0 +1,3 @@
+﻿  ex136a.cpp
+C:\Users\User\Documents\учеба\практика за 2 семестр\ex136a\ex136a.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ex136a.vcxproj -> C:\Users\User\Documents\учеба\практика за 2 семестр\ex136a\Debug\ex136a.exe
