@@ -1,0 +1,3 @@
+﻿  ex692a.cpp
+C:\Users\User\Documents\учеба\практика за 2 семестр\ex692a\ex692a.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ex692a.vcxproj -> C:\Users\User\Documents\учеба\практика за 2 семестр\ex692a\Debug\ex692a.exe
