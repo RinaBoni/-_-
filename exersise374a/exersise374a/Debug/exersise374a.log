@@ -1,0 +1,11 @@
+﻿  exersise374a.cpp
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,15): error C2131: выражение не определяется константой
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,15): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,15): message : см. использование "n"
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,18): error C2131: выражение не определяется константой
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,18): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(12,18): message : см. использование "n"
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(13,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "for"
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(17,23): error C3863: тип массива "float [n][n]" является неназначаемым
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(18,26): error C2065: a: необъявленный идентификатор
+C:\Users\User\Documents\учеба\практика за 2 семестр\exersise374a\exersise374a\exersise374a.cpp(20,22): error C2065: endl: необъявленный идентификатор

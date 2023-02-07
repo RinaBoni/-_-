@@ -1,0 +1,4 @@
+﻿  ex884a.cpp
+C:\Users\User\Documents\учеба\практика за 2 семестр\ex884a\ex884a.cpp(25,42): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\Documents\учеба\практика за 2 семестр\ex884a\ex884a.cpp(27,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ex884a.vcxproj -> C:\Users\User\Documents\учеба\практика за 2 семестр\ex884a\Debug\ex884a.exe
