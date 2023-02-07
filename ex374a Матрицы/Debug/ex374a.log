@@ -1,0 +1,3 @@
+﻿  ex374a.cpp
+C:\Users\User\Documents\учеба\практика за 2 семестр\ex374a\ex374a.cpp(18,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ex374a.vcxproj -> C:\Users\User\Documents\учеба\практика за 2 семестр\ex374a\Debug\ex374a.exe
